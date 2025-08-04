@@ -53,12 +53,20 @@
 
 ### 📫 Let’s Connect
 
+#### 📫 Let’s Connect
+
 <p>
-  <a href="mailto:zalavadiyalisa3@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="
-www.linkedin.com/in/lisazalavadiya04?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:zalavadiyalisa3@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lisazalavadiya04/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
